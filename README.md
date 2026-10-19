@@ -67,14 +67,10 @@ flowchart LR
 - [两项功能的交互示意](docs/case-study.md)
 - [验证状态与适用限制](docs/validation.md)
 
-## 个人职责
 
-由 **[zhaohy0601](https://github.com/zhaohy0601)** 主导领域改造、工作流设计、数据与证据接入、前后端集成及验证。
 
 ## 公开范围与致谢
 
 本仓库只公开展示材料，不包含核心源码、完整提示词、语料、关系数据包、人工审核记录或毕业论文实验细节。源码开放时间尚未确定。
-
-工程骨架来源于 [SmartDietian](https://github.com/Givenchy-Coisini/SmartDietian)；循证检索设计参考 [PaperQA](https://github.com/Future-House/paper-qa)；关联探索设计参考 [FoodAtlas](https://github.com/AI-Institute-Food-Systems/foodatlas)。参考关系不代表已经集成这些项目的框架或数据。
 
 参见 [NOTICE](NOTICE.md)。本项目用于信息探索与证据解读，不提供医疗诊断、治疗或剂量建议。
